@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thien An Tran NGUYEN</h1>
+<h1 align="center">Hi 👋, I'm Nguyen Thien An TRAN</h1>
 <h3 align="center">A passionate frontend developer from Vietnam (UIT)</h3>
 
 - 🔭 I’m currently working on [IELTS website](https://github.com/andythienan/IELTS-project)
