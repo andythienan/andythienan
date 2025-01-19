@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [IELTS website](https://github.com/andythienan/IELTS-project)
 
-- 🌱 I’m currently learning **Javascripts**
+- 🌱 I’m currently learning **Javascripts** **Tailwind**
 
 - 📫 How to reach me **thienan18082006@gmail.com**
 
