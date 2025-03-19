@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Thien An TRAN</h1>
-<h3 align="center">A passionate frontend developer from Viet Nam (UIT)</h3>
+<h3 align="center">A passionate web developer from Viet Nam (UIT)</h3>
 
 - 🔭 I’m currently working on [Fintechnic Banking Project](https://github.com/andythienan/IELTS-project)
 
