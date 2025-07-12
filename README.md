@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Fintechnic Banking Project](https://github.com/andythienan/IELTS-project)
 
-- 🌱 I’m currently learning **Javascripts, Tailwind**
+- 🌱 I’m currently learning **FastAPI, Machine Learning**
 
 - 📫 How to reach me **thienan18082006@gmail.com**
 
-- ⚡ Fun fact **I think I am funny (or not)**
+- ⚡ Fun fact **IDK**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
