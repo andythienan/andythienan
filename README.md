@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **thienan18082006@gmail.com**
 
-- ⚡ Fun fact **IDK**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
