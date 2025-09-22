@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andy</h1>
-<h3 align="center">A passionate developer from Viet Nam (UIT)</h3>
+<h3 align="center">A passionate Machine Learning Engineer from Viet Nam (UIT)</h3>
 
 - 🔭 I’m currently working on [CreditScoringSystem project](https://github.com/creditscoringsystem)
 
