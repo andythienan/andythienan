@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Trần Nguyễn Thiên Ân</h1>
-<h3 align="center">AI/ML Enthusiast | UIT Student | Future Machine Learning Engineer</h3>
+<h1 align="center">About me 🧠</h1>
 
 ---
 
-## 🌟 About me
+## 🌟 About Me
 
-- 🎓 An ambitious UIT student, driven by a passion for Machine Learning and Deep Learning, exploring the frontiers of AI's potential  
-- 🚀 Eager to learn, code, and innovate, transforming theoretical knowledge into practical solutions. Committed to shaping the future of AI, one breakthrough at a time  
-- 🌌 A rising star in the world of AI, fueled by a relentless pursuit of knowledge and a dedication to making a positive impact  
+- 🎓 A motivated UIT student passionate about Artificial Intelligence, especially Machine Learning and Deep Learning  
+- 🔬 Fascinated by how data, mathematics, and algorithms can be transformed into intelligent systems that solve real-world problems  
+- 🚀 Always exploring, experimenting, and building — turning ideas into practical applications through constant learning and iteration  
+- 💡 Driven by curiosity, discipline, and the desire to create meaningful AI-powered solutions that make a positive impact  
 
 ---
 
@@ -69,18 +69,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andythienan&layout=compact&theme=tokyonight&hide_border=true" height="150px"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=andythienan&theme=onestar&margin-w=10&margin-h=10" />
-</p>
-
----
-
-## ✨ Profile Views  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=andythienan&label=Profile%20views&color=0e75b6&style=flat" alt="andythienan" />
 </p>
