@@ -7,7 +7,7 @@
 
 ---
 
-## 🧠 My Skill Set  
+<h1 align="center">My Skill Set 💉</h1>
 
 ### 🔹 Programming Languages  
 <p>
