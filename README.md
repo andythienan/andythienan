@@ -1,21 +1,86 @@
-<h1 align="center">Hi 👋, I'm Andy</h1>
-<h3 align="center">A passionate Machine Learning Engineer from Viet Nam (UIT)</h3>
+<h1 align="center">Hi 👋, I'm Trần Nguyễn Thiên Ân</h1>
+<h3 align="center">AI/ML Enthusiast | UIT Student | Future Machine Learning Engineer</h3>
 
-- 🔭 I’m currently working on [CreditScoringSystem project](https://github.com/creditscoringsystem)
+---
 
-- 🌱 I’m currently learning **FastAPI, Machine Learning**
+## 🌟 About me
 
-- 📫 How to reach me **thienan18082006@gmail.com**
+- 🎓 An ambitious UIT student, driven by a passion for Machine Learning and Deep Learning, exploring the frontiers of AI's potential  
+- 🚀 Eager to learn, code, and innovate, transforming theoretical knowledge into practical solutions. Committed to shaping the future of AI, one breakthrough at a time  
+- 🌌 A rising star in the world of AI, fueled by a relentless pursuit of knowledge and a dedication to making a positive impact  
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/thien an tran nguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thien an tran nguyen" height="30" width="40" /></a>
+## 🧠 My Skill Set  
+
+### 🔹 Programming Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+### 🔹 AI / Machine Learning / Deep Learning  
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+  <img src="https://skillicons.dev/icons?i=opencv" />
+  <img src="https://skillicons.dev/icons?i=matlab" />
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+  <img src="https://skillicons.dev/icons?i=flask" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andythienan&show_icons=true&locale=en&layout=compact" alt="andythienan" /></p>
+### 🔹 DevOps / Cloud  
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" />
+  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=nginx" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andythienan&show_icons=true&locale=en" alt="andythienan" /></p>
+### 🔹 Tools / Others  
+<p>
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=notion" />
+</p>
+
+---
+
+## 🔗 Connect with me  
+<p align="left">
+  <a href="[your-github]"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="[your-facebook]"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+  <a href="[your-instagram]"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="[your-linkedin]"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+</p>
+
+---
+
+## 🔥 GitHub Stats (Animated)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andythienan&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andythienan&theme=tokyonight&hide_border=true" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andythienan&layout=compact&theme=tokyonight&hide_border=true" height="150px"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=andythienan&theme=onestar&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+## ✨ Profile Views  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=andythienan&label=Profile%20views&color=0e75b6&style=flat" alt="andythienan" />
+</p>
