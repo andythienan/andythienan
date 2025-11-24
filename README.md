@@ -1,9 +1,5 @@
 <h1 align="center">About me 🧠</h1>
 
----
-
-## 🌟 About Me
-
 - 🎓 A motivated UIT student passionate about Artificial Intelligence, especially Machine Learning and Deep Learning  
 - 🔬 Fascinated by how data, mathematics, and algorithms can be transformed into intelligent systems that solve real-world problems  
 - 🚀 Always exploring, experimenting, and building — turning ideas into practical applications through constant learning and iteration  
