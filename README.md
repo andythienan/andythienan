@@ -5,7 +5,7 @@
 - 🚀 Always exploring, experimenting, and building — turning ideas into practical applications through constant learning and iteration  
 - 💡 Driven by curiosity, discipline, and the desire to create meaningful AI-powered solutions that make a positive impact  
 
-
+---
 
 <h1 align="center">My Skill Set 💉</h1>
 
