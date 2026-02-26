@@ -74,15 +74,11 @@ Building intelligent systems from data, math, and code 🚀
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="your-linkedin">
+<a href="https://www.linkedin.com/in/nguyenthienantran/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="your-facebook">
-<img src="https://skillicons.dev/icons?i=facebook" />
-</a>
-
-<a href="your-instagram">
+<a href="https://www.instagram.com/thienan.iterate/">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 </p>
