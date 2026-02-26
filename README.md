@@ -6,7 +6,7 @@ AI Engineer Student | Machine Learning • Deep Learning • Computer Vision
 </p>
 
 <p align="center">
-Building intelligent systems from data, math, and code 🚀
+From pixels to real-world intelligence.
 </p>
 
 ---
@@ -14,11 +14,13 @@ Building intelligent systems from data, math, and code 🚀
 <!-- ABOUT -->
 ## 🧠 About Me
 
-• 🎓 AI-focused student at UIT  
-• 🤖 Passionate about Machine Learning & Deep Learning  
-• 🔬 Interested in Computer Vision and real-world AI applications  
-• 🚀 Currently building and deploying AI models  
-• 📚 Always learning, experimenting, improving  
+An AI Engineer specializing in Machine Learning and Computer Vision, with a strong focus on building and deploying real-world intelligent systems.
+
+My work centers on training, optimizing, and productionizing deep learning models — particularly in object detection and vision-based applications — and integrating them into scalable backend environments.
+
+With a solid foundation from University of Information Technology, VNU-HCM and extensive hands-on experience, I approach AI as both an engineering discipline and a problem-solving tool.
+
+I am driven by a builder mindset — constantly experimenting, refining, and turning ideas into reliable AI systems that deliver practical impact. 
 
 ---
 
